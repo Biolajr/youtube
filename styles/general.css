@@ -1,0 +1,21 @@
+p {
+    font-family: Roboto, Arial;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+body {
+    margin: 0;
+    padding-top: 80px;
+    padding-left: 96px;
+    padding-right: 24px;
+    cursor: pointer;
+    background-color:rgb(251, 246, 246);
+    
+}
+
+.thumbnail-row {
+    margin-bottom: 12px;
+    position: relative;
+    
+}
